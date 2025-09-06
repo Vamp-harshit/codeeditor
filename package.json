@@ -23,7 +23,7 @@
   },
   "scripts": {
     "start:front": "react-scripts start",
-    "start": "node server.js",          // ✅ fixed for Render
+    "start": "node server.js",        
     "build": "react-scripts build",
     "server:dev": "nodemon server.js",
     "server:prod": "node server.js",
